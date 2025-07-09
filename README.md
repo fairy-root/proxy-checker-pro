@@ -14,7 +14,7 @@ A powerful and user-friendly proxy validation tool with both GUI and command-lin
 
 ## ✨ Features
 
-### 🖥️ GUI Application (`prcheck.py`)
+### 🖥️ GUI Application (`app.py`)
 - **Modern Dark Theme Interface** - Beautiful customtkinter-based UI
 - **Multi-Protocol Support** - HTTP, SOCKS4, and SOCKS5 proxies
 - **Flexible Input Formats** - With or without protocol prefixes
