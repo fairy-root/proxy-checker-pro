@@ -67,7 +67,7 @@ pip install customtkinter requests colorama tqdm
 ### 🖥️ GUI Application
 
 ```bash
-python prcheck.py
+python app.py
 ```
 
 **Features:**
